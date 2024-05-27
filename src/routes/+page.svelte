@@ -10,4 +10,7 @@
     div.c1c {
         text-align: center;
     }
+    h1 {
+        text-align: center;
+    }
 </style>
