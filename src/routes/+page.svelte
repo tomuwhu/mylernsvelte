@@ -1,7 +1,7 @@
 <script>
     import Comp1 from "$lib/Comp1.svelte";
     const props = {
-        n: 8
+        x: 'Sakktábla'
     }
 </script>
 <h1>Gyökér elem</h1>

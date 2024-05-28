@@ -1,9 +1,9 @@
 <script>
-    export let n
+    export let n = 8, x = 'névtelen rács komponens'
     const t = Array(Number(n**2)).fill().map((v, i) => i)
 </script>
 
-<h2>Komponens: Comp1</h2>
+<h2>Komponens: {x}, n = {n}</h2>
 <div class="c" style="grid-template-columns: repeat({n}, 1fr);">
 {#each t as i}
     {#if n % 2 == 0}
