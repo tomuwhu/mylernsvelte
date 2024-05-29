@@ -45,13 +45,9 @@
         border-radius: 12px;
         border:solid 10px rgb(66, 62, 62);
         padding: 20px;
-        margin: 0px;
+        margin: 30px;
+        margin-top : 46px;
         box-shadow: 4px 4px 16px black;
-        position: fixed;
-        top: 40px;
-        left: 20px;
-        right: 20px;
-        bottom: 40px;
         background-color: rgb(238, 230, 221);
     }
     div.footer {
